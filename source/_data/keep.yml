@@ -3,3 +3,21 @@ base_info:
   title: Chunbin's Blog
   author: Chunbin
 
+menu:
+  Home: /
+  Archives: /archives/
+  Tags: /tags/
+  # About: /about/
+
+home:
+  # Website announcement in home page
+  announcement:
+
+  # Show category in home page post block
+  category: true           # Option values: true | false
+
+  # Show tags in home page post block
+  tag: true                # Option values: true | false
+
+  # Set the datetime type of home page post block
+  post_datetime: updated    # Option values: updated | created
