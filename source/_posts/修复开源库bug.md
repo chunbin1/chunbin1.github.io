@@ -3,7 +3,7 @@ title: 修复开源库bug
 code_block_shrink: false
 date: 2024-08-01 11:50:44
 updated: 2024-08-01 11:50:44
-excerpt: 以preact为例子介绍如何修复开源库bug
+excerpt: 以preact为例子介绍如何快速修复开源库bug,而不是等开源库MR
 tags:
 ---
 以preact为例子
