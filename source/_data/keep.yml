@@ -21,3 +21,10 @@ home:
 
   # Set the datetime type of home page post block
   post_datetime: updated    # Option values: updated | created
+
+website_count:
+  busuanzi_count:
+    enable: true     # Option values: true | false
+    site_uv: true    # Option values: true | false
+    site_pv: true    # Option values: true | false
+    page_pv: true    # Option values: true | false
