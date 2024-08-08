@@ -1,6 +1,7 @@
 ---
 title: is关键字
 date: 2024-07-05 16:18:35
+updated: 2024-08-01 11:50:44
 tags: [TypeScript]
 code_block_shrink:  false
 excerpt: TypeScript中is关键字的使用

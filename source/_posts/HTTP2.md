@@ -1,6 +1,7 @@
 ---
 title: HTTP2
 date: 2024-07-19 11:34:21
+updated: 2024-08-01 11:50:44
 tags: 网络
 code_block_shrink:  false
 excerpt: HTTP2原理
