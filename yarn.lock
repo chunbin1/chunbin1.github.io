@@ -651,10 +651,10 @@ hexo-server@^3.0.0:
     picocolors "^1.0.0"
     serve-static "^1.14.1"
 
-hexo-theme-keep@^4.1.3:
-  version "4.1.3"
-  resolved "https://registry.yarnpkg.com/hexo-theme-keep/-/hexo-theme-keep-4.1.3.tgz#aa3e534b3b49e2e72ea4b38549f0afb5b4f27d30"
-  integrity sha512-bnSAZdOtU/QqTr+O8Mo+vcZVWfV+oa0YOOgcQjubt85UoCDpPqjCqjTQJk+EfdSZnqFP65czpXg176gi1xJ8bw==
+hexo-theme-keep@^4.2.3:
+  version "4.2.3"
+  resolved "https://registry.yarnpkg.com/hexo-theme-keep/-/hexo-theme-keep-4.2.3.tgz#95e7e38d76e0acb98dcf3c4abbc8870db8937cad"
+  integrity sha512-lTp9W8O7b19TeDIWBqe4popPQY/COsyR51l8Le9STPCPKin/3nbaL0lKIXwT7aV7cV+VC1RkAvph2pDaFXQfpQ==
 
 hexo-theme-landscape@^1.0.0:
   version "1.0.0"
