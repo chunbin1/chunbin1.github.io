@@ -1,0 +1,9 @@
+comment:
+  enable: true
+  use: giscus
+  giscus:
+    repo: chunbin1/chunbin1.github.io
+    repo_id: R_kgDOMQSecw
+    category: Announcements
+    category_id: DIC_kwDOMQSec84C9v1Z
+    reactions_enabled: true
