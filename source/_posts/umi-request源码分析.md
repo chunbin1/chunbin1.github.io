@@ -4,7 +4,7 @@ date: 2020-05-21 10:49:15
 updated: 2020-05-21 10:49:15
 tags: 前端
 code_block_shrink: false
-excerpt: "isomorphic-fetch": "^2.2.1", // 同构的fetch请求库
+excerpt: "\"isomorphic-fetch\": \"^2.2.1\", // 同构的fetch请求库"
 ---
 ## 依赖分析
 ```json

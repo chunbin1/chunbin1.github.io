@@ -4,7 +4,7 @@ date: 2020-04-28 09:57:03
 updated: 2020-04-28 09:57:03
 tags: 前端
 code_block_shrink: false
-excerpt: function* genDemo() {
+excerpt: "function* genDemo() {"
 ---
 ## 生成器（Generator）
 ```js

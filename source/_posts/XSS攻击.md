@@ -4,7 +4,7 @@ date: 2020-06-04 11:42:08
 updated: 2020-06-04 11:42:08
 tags: 前端
 code_block_shrink: false
-excerpt: 读了[如何防止XSS攻击](https://juejin.im/post/5bad9140e51d450e935c6d64#heading-26),有了一些笔记
+excerpt: "读了[如何防止XSS攻击](https://juejin.im/post/5bad9140e51d450e935c6d64#heading-26),有了一些笔记"
 ---
 读了[如何防止XSS攻击](https://juejin.im/post/5bad9140e51d450e935c6d64#heading-26),有了一些笔记和思考
 ## 什么是XSS攻击

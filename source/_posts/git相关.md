@@ -4,7 +4,7 @@ date: 2020-11-30 10:22:17
 updated: 2020-11-30 10:22:17
 tags: 前端
 code_block_shrink: false
-excerpt: 使用git submodule分散项目的大小，[具体](https://git-scm.com/book/zh/v2/Git-%E5%B7%A5%E5%85%B
+excerpt: "使用git submodule分散项目的大小，[具体](https://git-scm.com/book/zh/v2/Git-%E5%B7%A5%E5%85%B"
 ---
 ## nextjs部署k8s过程中，因为项目文件过大，上传超时
 ### 解决方法

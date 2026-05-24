@@ -4,7 +4,7 @@ date: 2020-04-20 08:26:52
 updated: 2020-04-20 08:26:52
 tags: 前端
 code_block_shrink: false
-excerpt: if ($request_uri ~* .(js|css)$) {
+excerpt: "if ($request_uri ~* .(js|css)$) {"
 ---
 ## 强缓存
 ```

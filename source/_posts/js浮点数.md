@@ -4,7 +4,7 @@ date: 2021-01-07 09:37:20
 updated: 2021-01-07 09:37:20
 tags: 前端
 code_block_shrink: false
-excerpt: 浮点数的表示借鉴了`科学计数法`
+excerpt: "浮点数的表示借鉴了`科学计数法`"
 ---
 
 ## 浮点数的存储结构

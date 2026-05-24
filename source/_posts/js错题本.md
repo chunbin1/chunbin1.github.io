@@ -4,7 +4,7 @@ date: 2020-06-28 18:48:41
 updated: 2020-06-28 18:48:41
 tags: 前端
 code_block_shrink: false
-excerpt: const m = [1, 2]
+excerpt: "const m = [1, 2]"
 ---
 
 ## js中的加法
