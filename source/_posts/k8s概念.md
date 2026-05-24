@@ -28,7 +28,7 @@ excerpt: 自动化的容器编排平台
 
 ## 架构
 
-<img src="./image/k8s.png" />
+{% asset_img k8s.png k8s架构 %}
 解析：Kubernetes 架构是一个比较典型的二层架构和 server-client 架构。master作为中间管控节点，与Node进行连接，所有UI 的、clients、这些 user 侧的组件，只会和 Master 进行连接
 
 ### Master架构
@@ -42,7 +42,7 @@ excerpt: 自动化的容器编排平台
 是一个分布式的一个存储系统,API Server 中所需要的这些原信息都被放置在 etcd 中
 
 ### Node架构
-<img src="./image/node架构.png" />
+{% asset_img node架构.png node架构 %}
 
 ## 核心概念
 ### Pod

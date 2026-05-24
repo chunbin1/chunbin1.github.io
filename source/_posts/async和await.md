@@ -49,7 +49,7 @@ console.log('main 4')
 2. 在gen协程中调用yield方法时，js引擎会保存gen协程当前的调用栈信息，并恢复父协程的调用栈信息。
 3. 父协程中执行gen.next()时，js引擎会保存父协程的调用栈信息，并恢复gen协程的调用栈信息。
 
-<img src="./image/协程切换.png" />
+{% asset_img 协程切换.png 协程切换 %}
 
 ## async/await
 底层技术：Promise和生成器即微任务和协程
@@ -71,7 +71,7 @@ console.log(3)
 ```
 输出顺序：0=>1=>3=>100=>2
 过程如下
-<img src="./image/async和await之间的配合.png" />
+{% asset_img async和await之间的配合.png async和await之间的配合 %}
 
 ### 一道题目
 ```js
